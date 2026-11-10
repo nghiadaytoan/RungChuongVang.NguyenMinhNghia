@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "cfg": {
+    "title": "HỘI THI RUNG CHUÔNG VÀNG",
+    "school": "Trường THCS Mẫu",
+    "secs": 20,
+    "warm": 1,
+    "shuffle": false
+  },
+  "roster": [
+    "Nguyễn An", "Trần Bình", "Lê Chi", "Phạm Dũng", "Hoàng Em",
+    "Vũ Giang", "Đặng Hà", "Bùi Hùng", "Đỗ Khang", "Ngô Lan",
+    "Dương Mai", "Lý Nam", "Phan Oanh", "Tạ Phúc", "Trịnh Quân",
+    "Hồ Như", "Mai Sơn", "Cao Tâm", "Chu Uyên", "Đinh Vũ",
+    "Hà Xuân", "Kiều Yến", "La Bảo", "Lưu Cường", "Mạc Diệp",
+    "Nghiêm Đạt", "Quách Giao", "Thái Hiền", "Tô Khánh", "Ứng Linh"
+  ],
+  "questions": [
+    {"text":"Thủ đô của Việt Nam là thành phố nào?","opts":["Hà Nội","Huế","Đà Nẵng","TP. Hồ Chí Minh"],"ans":"A","type":"normal"},
+    {"text":"Kết quả của $7 \\times 8$ là bao nhiêu?","opts":["54","56","63","48"],"ans":"B","type":"normal"},
+    {"text":"Hành tinh nào gần Mặt Trời nhất?","opts":["Sao Kim","Trái Đất","Sao Thủy","Sao Hỏa"],"ans":"C","type":"normal"},
+    {"text":"Ở áp suất thường, nước sôi ở nhiệt độ nào?","opts":["$90^\\circ C$","$100^\\circ C$","$110^\\circ C$","$120^\\circ C$"],"ans":"B","type":"normal"},
+    {"text":"Ai là tác giả của Truyện Kiều?","opts":["Nguyễn Trãi","Nguyễn Du","Hồ Xuân Hương","Nguyễn Khuyến"],"ans":"B","type":"normal"},
+    {"text":"Nghiệm của phương trình $x^2 - 5x + 6 = 0$ là?","opts":["$x=1$ hoặc $x=6$","$x=2$ hoặc $x=3$","$x=-2$ hoặc $x=-3$","$x=0$ hoặc $x=5$"],"ans":"B","type":"normal"},
+    {"text":"Số nguyên tố nhỏ nhất là số nào?","opts":["0","1","2","3"],"ans":"C","type":"normal"},
+    {"text":"Vịnh Hạ Long thuộc tỉnh nào?","opts":["Quảng Ninh","Hải Phòng","Thanh Hóa","Nghệ An"],"ans":"A","type":"normal"},
+    {"text":"Cây xanh hấp thụ khí nào để quang hợp?","opts":["$O_2$","$CO_2$","$N_2$","$H_2$"],"ans":"B","type":"normal"},
+    {"text":"Giá trị của $\\sqrt{144}$ là bao nhiêu?","opts":["11","12","14","16"],"ans":"B","type":"normal"},
+    {"text":"Đơn vị đo cường độ dòng điện là gì?","opts":["Vôn","Oát","Ôm","Ampe"],"ans":"D","type":"normal"},
+    {"text":"Quốc khánh nước Cộng hòa Xã hội chủ nghĩa Việt Nam là ngày nào?","opts":["30/4","2/9","19/8","1/5"],"ans":"B","type":"normal"},
+    {"text":"Tổng các góc trong một tam giác bằng bao nhiêu?","opts":["$90^\\circ$","$180^\\circ$","$270^\\circ$","$360^\\circ$"],"ans":"B","type":"normal"},
+    {"text":"Mỗi đội bóng đá có bao nhiêu cầu thủ trên sân?","opts":["9","10","11","12"],"ans":"C","type":"rescue"},
+    {"text":"Nước đóng băng ở nhiệt độ nào?","opts":["$0^\\circ C$","$10^\\circ C$","$-10^\\circ C$","$32^\\circ C$"],"ans":"A","type":"rescue"},
+    {"text":"Diện tích hình tròn bán kính $r$ được tính bằng công thức nào?","opts":["$2\\pi r$","$\\pi r^2$","$\\pi d$","$\\frac{\\pi r^2}{2}$"],"ans":"B","type":"rescue"},
+    {"text":"Kim loại nào ở thể lỏng trong điều kiện nhiệt độ phòng?","opts":["Sắt","Thủy ngân","Đồng","Nhôm"],"ans":"B","type":"final"},
+    {"text":"Nguyên tố hóa học có ký hiệu $Au$ là nguyên tố nào?","opts":["Bạc","Đồng","Vàng","Nhôm"],"ans":"C","type":"final"},
+    {"text":"Giá trị của biểu thức $\\displaystyle\\lim_{n\\to\\infty}\\left(1+\\frac{1}{n}\\right)^n$ là?","opts":["$1$","$2$","$e$","$\\infty$"],"ans":"C","type":"final"}
+  ]
+}
